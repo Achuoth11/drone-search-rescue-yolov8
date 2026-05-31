@@ -1,0 +1,13 @@
+# Install on Raspberry Pi with:
+# pip install -r requirements_pi.txt
+
+ultralytics
+opencv-python
+numpy
+pyserial
+flask
+flask-socketio
+
+# System packages (run separately):
+# sudo apt update
+# sudo apt install rpicam-apps python3-opencv libopencv-dev

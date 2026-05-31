@@ -1,0 +1,30 @@
+# ── YOLOv8 Detection (Training & Inference) ──────────────
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+matplotlib
+pyyaml
+
+# ── Raspberry Pi Deployment ───────────────────────────────
+# (main_best.py & main_onnx.py)
+opencv-python
+numpy
+# Note: torch & ultralytics already listed above
+# rpicam-vid is a system tool — install via:
+# sudo apt install rpicam-apps
+
+# ── mmWave Radar Vital Signs ──────────────────────────────
+# (vital_signs.py & multiple_configs.py)
+pyserial
+flask
+flask-socketio
+numpy
+
+# ── General ───────────────────────────────────────────────
+jupyter
+pandas
+seaborn
+scikit-learn
+Pillow
