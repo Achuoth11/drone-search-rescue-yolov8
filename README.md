@@ -7,6 +7,16 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Edge_Deploy-red)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
+## 📄 Publications
+
+| Paper | Publisher | Status |
+|---|---|---|
+| Integrated UAV Multi-Sensor Framework for Landslide SAR Victim Detection & Physiological Triage | **Springer — Progress in Landslide Research and Technology, Vol.5** (WLF7 2026) | Submitted |
+| Real-Time UAV Vision System for Semi-Buried Human Detection in Landslide SAR | **Springer — Progress in Landslide Research and Technology, Vol.5** (WLF7 2026) | Submitted |
+
+> Both papers submitted to the **7th World Landslide Forum (WLF7)**
+> Springer Nature Switzerland AG
+
 ## 📌 Overview
 A two-component Search and Rescue (SAR) system combining:
 - 🎯 **YOLOv8n** — real-time aerial human detection from drone camera
@@ -223,7 +233,7 @@ vital signs using mmWave radar — all on Raspberry Pi edge deployment.
 ---
 
 ## 👤 Author
-**Achuoth Akol Achuoth Deng**
-Research Intern — Wireless Network & Application Research Lab
-B.Tech EEE, Amrita Vishwa Vidyapeetham, Amritapuri
+**Achuoth Akol Achuoth Deng**, Saikishen P V, Praveen K, Sangeeth Kumar, Sethuraman N. Ra
+Center for Wireless Networks and Applications (WNA),
+Amrita Vishwa Vidyapeetham, Amritapuri, India
 [LinkedIn](https://linkedin.com/in/achuoth-akol-achuoth-deng) · [GitHub](https://github.com/Achuoth11)
