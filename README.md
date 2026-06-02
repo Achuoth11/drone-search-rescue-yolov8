@@ -232,7 +232,7 @@ vital signs using mmWave radar — all on Raspberry Pi edge deployment.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 **Achuoth Akol Achuoth Deng**, Saikishen P V, Praveen K, Sangeeth Kumar, Sethuraman N. Ra
 Center for Wireless Networks and Applications (WNA),
 Amrita Vishwa Vidyapeetham, Amritapuri, India
